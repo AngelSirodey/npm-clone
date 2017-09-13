@@ -1,0 +1,251 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 50px;
+}
+  
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+  
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+header {
+    background: url(images/city-scape.svg);
+}
+
+header img {
+    width: 150px;
+    height: auto;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+header input {
+    height: 60px;
+    width: 950px;
+    background: transparent;
+    font-size: 30px;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+header button {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: transparent;
+    top: 9px;
+    left: -4px;
+    cursor: pointer;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+header button:hover {
+    background: #75AEEB
+}
+
+header form {
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+}
+
+header ul .sing-log {
+    position: relative;
+    left: 1270px;
+    bottom: 130px;
+    font-size: 30px;
+    color: white;
+}
+
+.user {
+    list-style: none;
+}
+
+header ul a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul .bear-logo {
+    position: relative;
+    left: 1500px;
+    bottom: 190px;
+}
+
+header ul img {
+    width: 80px;
+}
+
+
+header #pane-homepage-hero {
+    position: relative;
+    left: 320px;
+    bottom: 150px;
+}
+
+#pane-homepage-hero h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+#pane-homepage-hero .header-text {
+    color: white;
+    font-size: 20px
+}
+
+#pane-homepage-hero a {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+#pane-homepage-hero a:hover {
+    background: #E27C23;
+}
+
+.section-1 {
+    background: rgb(39, 53, 71);
+    
+}
+.section-1 .img-teammates {
+    width: 32%;
+    padding: 100px 0 100px 300px;
+}
+
+.section-1 .teammates-text {
+    float: right;
+    position: relative;
+    bottom: 450px;
+    right: 230px;
+    color: white;
+    line-height: 40px;
+    font-size: 20px;    
+}
+
+.section-1 .teammates-text h2 {
+    font-weight: normal;
+}
+
+.section-1 .sing-btn {
+    background: rgb(203, 56, 55);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.section-1 .sing-btn:hover {
+    background: rgba(173, 2, 2, 0.6);   
+}
+
+.section-1 .learn-more {
+    color: white;
+    text-decoration: none;
+}
+
+.section-1 .learn-more:hover {
+    text-decoration: underline;
+}
+
+.section-2 {
+    background-image: url(images/forklift.svg);
+    background-size: cover;
+    padding: 1% 0 20% 0;
+}
+
+.section-2 .container {
+    color: white;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    font-size: 20px;
+}
+
+.section-2 h3 {
+    font-weight: normal;
+}
+
+.section-2 .btn {
+    background: rgb(49, 68, 88);
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;   
+}
+
+.section-2 .btn:hover {
+    background: rgba(26, 38, 48, 0.84);
+}
+
+.section-3 {
+    margin: 0 auto;
+    background: white;
+}
+
+.section-3 .blocks-text {
+    text-align: center;
+}
+
+.section-3 h2 {
+    font-weight: normal;
+    font-size: 35px;
+    padding-top: 50px
+}
+
+.section-3 .packages-txt {
+    font-size: 18px
+}
+
+.section-3 .find-discover-build {
+    position: relative;
+    display: inline-flex;
+    text-align: center;
+    padding: 40px 300px;
+}
+
+.font-color {
+    color: rgb(83, 88, 98)
+}
+
+.find-disc-build-text-color {
+    color: rgb(135, 145, 156);
+}
+
+.find a {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+
+.find a:hover {
+    text-decoration: underline;
+}
+
+.col {
+    float: left;
+}
+
+.col-3 {
+    width: 33%;
+    padding: 0 80px;
+}
+
+.col-middle {
+    margin: 0 5%;
+}
